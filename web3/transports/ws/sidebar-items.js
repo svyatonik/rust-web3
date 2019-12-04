@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["WebSocket","WebSocket transport"]],"type":[["WsTask","A future representing pending WebSocket request, resolves to a response."]]});

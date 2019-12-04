@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["batch","Batching Transport"],["http","HTTP Transport"],["ipc","IPC Transport for *nix"],["ws","WebSocket Transport"]],"struct":[["EventLoopHandle","Event Loop Handle. NOTE: Event loop is stopped when handle is dropped!"]],"type":[["Result","RPC Result."]]});
